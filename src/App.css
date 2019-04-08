@@ -5,6 +5,15 @@
   font-family: 'Ubuntu', sans-serif;
 }
 
+h1 {
+  color: crimson;
+  font-family: 'Orbitron', sans-serif;
+}
+
+span {
+  color: blueviolet;
+}
+
 input {
   font-size: 20px;
   margin-top: 150px;

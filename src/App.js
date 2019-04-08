@@ -42,6 +42,7 @@ class App extends Component {
      if(this.state.city !== undefined) {
           return (
             <div className="App">
+                <h1>Where is IP<span> ?</span></h1>
                 <input type="text" id='ip' placeholder='Enter IP..'></input>
                 <button onClick={this.getInfo}>Get IP Info</button>
                 <div className="result">
