@@ -19,7 +19,7 @@ class App extends Component {
       postal:"-",
       lat:"-",
       long:"-",
-      org:"-"
+      org:"" // removed extra dash at the end of the results
     };
 }
 
